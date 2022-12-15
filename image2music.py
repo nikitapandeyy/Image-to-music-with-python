@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1yudSqg06h8lW7re-kHhczjLj46bx87lF
 """
 
-!pip install pedalboard
 
-!pip install midiutil
 
 #importing modules
 import cv2
